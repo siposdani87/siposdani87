@@ -16,7 +16,7 @@ My motto is the following: **an application is living, while it is being develop
 <!-- Apps -->
 ### 💼 Hobby Apps that I'm currently working on:
 * [TrophyMap](https://trophymap.org)
-* [I18nature](https://i18nature.com)
+* [I18Nature](https://i18nature.com)
 * [siposdani87](https://siposdani87.com)
 
 <!---
