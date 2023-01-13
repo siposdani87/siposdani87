@@ -1,5 +1,5 @@
 <!-- Greeting -->
-# Hey there! I'm Dániel Sipos, a senior software engineer.
+# Hey there! I'm [Dániel Sipos](https://siposdani87.com), a senior software engineer.
 
 <!--Introduction -->
 There are many good things in the world, one is the science of programming. Which can be used to create applications with a multitude of lines of code, these can make easier the daily work of people. I sit down in front of my computer with this spirit day by day and work to reach this goal. I am one of the lucky people, whose job is one of their hobbies, so my mood does not decrease after many hours of development. This profession is full of challenges, continuous improvement is given and expected, do not get stuck in one technology, need to increase knowledge.
@@ -17,6 +17,7 @@ My motto is the following: **an application is living, while it is being develop
 ### 💼 Hobby Apps that I'm currently working on:
 * [TrophyMap](https://trophymap.org)
 * [I18Nature](https://i18nature.com)
+* [PuzzleBuilder](https://rejvenyepito.hu)
 * [siposdani87](https://siposdani87.com)
 
 <!---
